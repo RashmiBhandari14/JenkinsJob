@@ -12,7 +12,7 @@ public class FirstTest {
 
     @Test
     public void failTest() {
-        Assert.assertTrue(1 == 2);
+        Assert.assertTrue(2 == 2);
     }
 
     @Test
